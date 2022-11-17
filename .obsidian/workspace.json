@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "e056cf48d26c3578",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b50a5688054ca63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a467b29859dec198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2022-11-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e57765e0222423a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f920ea32db210a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5119a3aebef51ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42bab638933bfb24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cryptto",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88049b6b910c06e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6de74c4cfebf915e",
+    "type": "split",
+    "children": [
+      {
+        "id": "098ed2cc6499cb24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92fe4bc3ab8c9f8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/2022-11-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b6da6b8145c6e54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/2022-11-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eedbe5597de13693",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e57dffa6032e0015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journal/2022-11-15.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a467b29859dec198",
+  "lastOpenFiles": [
+    "journal/2022-11-13.md",
+    "journal/2022-11-15.md",
+    "journal/2022-10-30.md",
+    "journal/2022-07-25.md",
+    "journal/2022-07-26.md",
+    "README.md",
+    "people/Sam Keller.md",
+    "people/Ian Unsworth.md",
+    "people/0xSalex.md",
+    "people/sauceth0.md"
+  ]
+}

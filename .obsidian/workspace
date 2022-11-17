@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e056cf48d26c3578",
+    "type": "split",
+    "children": [
+      {
+        "id": "953e1e3eb9be6e5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journal/2022-10-13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e57765e0222423a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f920ea32db210a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5119a3aebef51ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "42bab638933bfb24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cryptto",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88049b6b910c06e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6de74c4cfebf915e",
+    "type": "split",
+    "children": [
+      {
+        "id": "098ed2cc6499cb24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92fe4bc3ab8c9f8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/2022-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b6da6b8145c6e54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/2022-10-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eedbe5597de13693",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e57dffa6032e0015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journal/2022-10-13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "953e1e3eb9be6e5c",
+  "lastOpenFiles": [
+    "journal/2022-10-12.md",
+    "journal/2022-10-06.md",
+    "templates/daily.md",
+    "journal/2022-10-02.md",
+    "people/Sam Bodick.md",
+    "templates/weekly.md",
+    "journal/2022-09-28.md",
+    "journal/2022-09-23.md",
+    "Untitled.md",
+    "journal/2022-09-22.md"
+  ]
+}
