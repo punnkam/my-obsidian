@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-11-30.md",
+                "file": "journal/2022-12-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-11-30.md",
+                "file": "journal/2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-11-30.md",
+                "file": "journal/2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-11-30.md"
+                "file": "journal/2022-12-01.md"
               }
             }
           }
@@ -154,8 +154,8 @@
   },
   "active": "8030826abcf417d3",
   "lastOpenFiles": [
-    "journal/2022-11-29.md",
     "journal/2022-11-30.md",
+    "journal/2022-11-29.md",
     "journal/2022-11-27.md",
     "people/Chad (gmchad).md",
     "journal/2022-11-25.md",
