@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5a1671a6ecfc81d7",
+        "id": "d15264f4591390b5",
         "type": "tabs",
         "children": [
           {
-            "id": "60f1d62cfe72e219",
+            "id": "555bcb82db3da18a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-11-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8030826abcf417d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2022-12-01.md",
+                "file": "journal/2022-12-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-12-01.md",
+                "file": "journal/2022-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-12-01.md",
+                "file": "journal/2022-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-12-01.md"
+                "file": "journal/2022-12-02.md"
               }
             }
           }
@@ -152,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8030826abcf417d3",
+  "active": "555bcb82db3da18a",
   "lastOpenFiles": [
-    "journal/2022-11-30.md",
     "journal/2022-11-29.md",
+    "journal/2022-12-02.md",
+    "journal/2022-12-01.md",
+    "journal/2022-11-30.md",
     "journal/2022-11-27.md",
     "people/Chad (gmchad).md",
     "journal/2022-11-25.md",
     "journal/2022-11-24.md",
     "journal/2022-11-16.md",
-    "journal/2022-11-15.md",
-    "journal/2022-11-13.md",
-    "journal/2022-10-30.md"
+    "journal/2022-11-15.md"
   ]
 }
