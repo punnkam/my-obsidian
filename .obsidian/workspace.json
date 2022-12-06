@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-12-03.md",
+                "file": "journal/2022-12-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-12-03.md",
+                "file": "journal/2022-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-12-03.md",
+                "file": "journal/2022-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-12-03.md"
+                "file": "journal/2022-12-04.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "2e350cd30551f17f",
   "lastOpenFiles": [
-    "journal/2022-12-02.md",
     "journal/2022-12-03.md",
+    "journal/2022-12-04.md",
+    "journal/2022-12-02.md",
     "people/Rachel Chu.md",
     "people/Ric Burton.md",
     "people/Yuyan Lynn.md",
     "people/Will Reid.md",
     "people/Will Nida.md",
     "people/Wei Dai.md",
-    "people/Walden Yan.md",
-    "people/Timothy Guo.md"
+    "people/Walden Yan.md"
   ]
 }
