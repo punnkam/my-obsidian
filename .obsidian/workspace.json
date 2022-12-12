@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-12-06.md",
+                "file": "journal/2022-12-12.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9b93acce05cfac7d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-12-06.md",
+                "file": "journal/2022-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-12-06.md",
+                "file": "journal/2022-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-12-06.md"
+                "file": "journal/2022-12-12.md"
               }
             }
           }
@@ -147,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b93acce05cfac7d",
+  "active": "2e350cd30551f17f",
   "lastOpenFiles": [
-    "journal/2022-12-05.md",
     "journal/2022-12-06.md",
+    "journal/2022-12-11.md",
+    "journal/2022-12-12.md",
+    "journal/2022-12-09.md",
+    "journal/2022-12-05.md",
     "journal/2022-12-04.md",
     "journal/2022-12-03.md",
     "journal/2022-12-02.md",
     "people/Rachel Chu.md",
-    "people/Ric Burton.md",
-    "people/Yuyan Lynn.md",
-    "people/Will Reid.md",
-    "people/Will Nida.md"
+    "people/Ric Burton.md"
   ]
 }
