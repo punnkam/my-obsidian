@@ -10,7 +10,11 @@
 - founder
 
 **Contact**
+@imsg
+@twitter
 
 **Location**
+@bay area
+@sf
 
 **Interactions**
