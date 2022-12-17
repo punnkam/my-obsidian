@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b34e7ab127fd2ce7",
+        "id": "d89238d39d033433",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4acaaacd2e96c5",
+            "id": "3f929f574f1929da",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b4acaaacd2e96c5",
+  "active": "3f929f574f1929da",
   "lastOpenFiles": [
     "journal/2022-12-14.md",
     "people/Mark Rachapoom.md",
