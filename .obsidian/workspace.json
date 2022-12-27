@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-12-22.md",
+                "file": "journal/2022-12-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-12-22.md",
+                "file": "journal/2022-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-12-22.md",
+                "file": "journal/2022-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-12-22.md"
+                "file": "journal/2022-12-27.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "3f929f574f1929da",
   "lastOpenFiles": [
+    "journal/2022-12-26.md",
+    "journal/2022-12-27.md",
     "journal/2022-12-20.md",
+    "journal/2022-12-22.md",
     "journal/2022-12-17.md",
     "journal/2022-12-18.md",
     "journal/2022-12-14.md",
     "people/Mark Rachapoom.md",
     "people/Sigil Wen.md",
-    "people/Derek Walkush.md",
-    "people/Untitled.md",
-    "journal/2022-12-12.md",
-    "journal/2022-11-15.md"
+    "people/Derek Walkush.md"
   ]
 }
