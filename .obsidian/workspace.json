@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d89238d39d033433",
+        "id": "36a1a9019c97477e",
         "type": "tabs",
         "children": [
           {
-            "id": "02284a91f2856a4e",
+            "id": "b31ff7819f00b65a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02284a91f2856a4e",
+  "active": "b31ff7819f00b65a",
   "lastOpenFiles": [
-    "notes/Savings app (Thailand).md",
-    "journal/2022-12-28 - 2022-12-31.md",
-    "README.md",
-    "journal/2022-12-27.md",
-    "journal/2022-08-30.md",
-    "journal/2022-08-31.md",
-    "journal/2022-09-02.md",
-    "journal/2022-09-01.md",
-    "journal/2022-09-03.md",
-    "journal/2022-09-04.md"
+    "people/Ethan Lippman.md",
+    "people/Emma Guo.md",
+    "people/Emerson Hseih.md",
+    "people/Don Assa.md",
+    "people/Divyesh Khatri.md",
+    "people/Derek Walkush.md",
+    "people/Bryan Chiang.md",
+    "people/Brihu Sundararaman.md",
+    "people/Brandon Vu.md",
+    "people/Bobby Tatum.md"
   ]
 }
