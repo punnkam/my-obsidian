@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-12-28 - 2022-12-31.md",
+                "file": "notes/2023 review.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "0fd81ba874e58f74",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-12-28 - 2022-12-31.md",
+                "file": "notes/2023 review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-12-28 - 2022-12-31.md",
+                "file": "notes/2023 review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-12-28 - 2022-12-31.md"
+                "file": "notes/2023 review.md"
               }
             }
           }
@@ -138,15 +146,15 @@
   },
   "active": "b31ff7819f00b65a",
   "lastOpenFiles": [
+    "people/Untitled.md",
+    "people/Nikhil Bakshi.md",
+    "people/Josh Galbreath.md",
+    "notes/2023 review.md",
+    "notes/2023 Goals.md",
     "people/Ethan Lippman.md",
     "people/Emma Guo.md",
     "people/Emerson Hseih.md",
     "people/Don Assa.md",
-    "people/Divyesh Khatri.md",
-    "people/Derek Walkush.md",
-    "people/Bryan Chiang.md",
-    "people/Brihu Sundararaman.md",
-    "people/Brandon Vu.md",
-    "people/Bobby Tatum.md"
+    "people/Divyesh Khatri.md"
   ]
 }

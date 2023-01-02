@@ -1,6 +1,5 @@
-**Braindump**
-Need to write some goals for 2023. Some are the following:
 
+Learnings:
 * Be a perpetual optimist
 * Always be assertive and ask (that's what sets you apart)
 	* Don't be scared of looking dumb
@@ -37,6 +36,9 @@ Need to write some goals for 2023. Some are the following:
 	- Hold people accountable - have hard conversations
 - Manifestation is optimism in motion.
 - Consume, Critique, Curate, Consume
+- What usually stands between you and what you want is "asking"
+- Be slow to judge and quick to help
+- Walk in like you own it, humbly
 
 Books to read:
 - Superintelligence
@@ -52,6 +54,8 @@ Books to read:
 - Titan: The Life of John D. Rockefeller, Sr.
 - Modern Poker Theory
 - Don't make me think - Steve Crud
+- Build
+- Skin in the game
 
 Project ideas for 2023:
 * AI helpers
@@ -72,15 +76,18 @@ Project ideas for 2023:
 		* Can integrate ewallet and banks for funding
 		* Need to learn about broker license
 	* Some cool twitter bots
+* Tech to use
+	* Swift + UIKit
+	* Terraform
+	* ChatGPT/Stable Diffusion/Midjourney
+	* Cloudflare Workers/R2
 
-Startups that seem really good:
+(Seemingly) good startups:
 - Capital (PartyRound) https://www.linkedin.com/in/brianarmstrongofficial/
 
-Essays ideas:
-* Consider
-![[Pasted image 20221231093704.png]]
-
-
+Writing:
+- Write about things I'm interested in
+- http://www.paulgraham.com/words.html
 
 **Feelings**
 
