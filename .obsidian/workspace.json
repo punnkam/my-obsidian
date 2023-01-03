@@ -11,9 +11,11 @@
             "id": "b31ff7819f00b65a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "photos/Pasted image 20221229133524.png"
+                "file": "notes/2023 review.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photos/Pasted image 20221229133524.png",
+                "file": "notes/2023 review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photos/Pasted image 20221229133524.png",
+                "file": "notes/2023 review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photos/Pasted image 20221229133524.png"
+                "file": "notes/2023 review.md"
               }
             }
           }
@@ -144,15 +146,15 @@
   },
   "active": "b31ff7819f00b65a",
   "lastOpenFiles": [
+    "photos/Pasted image 20221229133524.png",
+    "notes/2023 review.md",
+    "journal/2022-12-22.md",
     "journal/2022-10-16.md",
     "journal/2022-10-15.md",
     "journal/2022-10-14.md",
     "journal/2022-09-28.md",
     "journal/2022-09-18.md",
     "journal/2022-09-12.md",
-    "journal/2022-09-15.md",
-    "journal/2022-12-05.md",
-    "journal/2022-12-18.md",
-    "journal/2022-12-14.md"
+    "journal/2022-09-15.md"
   ]
 }

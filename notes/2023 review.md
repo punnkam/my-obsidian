@@ -42,20 +42,21 @@ Learnings:
 
 Books to read:
 - Superintelligence
-- Benjamin Franklin
 - Blitzscaling
-- Design Patterns: Elements of Reusable Object-Oriented Software
+- Dive into Design Patterns - Ebook
 - Clean Code: A Handbook of Agile Software Craftsmanship
 - Founders at Work: Stories of Startups' Early Days
 - The Beginning of Infinity: Explanations That Transform the World
-- The Intelligent Investor
+- The Intelligent Investor - Ben Graham
 - The History of the Decline and Fall of the Roman Empire (Penguin Classics)
 - The Rational Optimist
 - Titan: The Life of John D. Rockefeller, Sr.
 - Modern Poker Theory
 - Don't make me think - Steve Crud
-- Build
-- Skin in the game
+- Build - Tony Faddell
+- Skin in the game - Nassim Taleb
+- Black Swan - Nassim Taleb
+- Warren Buffett essays
 
 Project ideas for 2023:
 * AI helpers
