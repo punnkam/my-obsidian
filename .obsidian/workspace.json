@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2023 review.md",
+                "file": "journal/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2023 review.md",
+                "file": "journal/2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2023 review.md",
+                "file": "journal/2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2023 review.md"
+                "file": "journal/2023-01-04.md"
               }
             }
           }
@@ -146,15 +146,15 @@
   },
   "active": "b31ff7819f00b65a",
   "lastOpenFiles": [
-    "photos/Pasted image 20221229133524.png",
+    "journal/2023-01-03.md",
+    "people/Ratan Kaliani.md",
+    "people/Raymond Chong.md",
     "notes/2023 review.md",
+    "photos/Pasted image 20221229133524.png",
     "journal/2022-12-22.md",
     "journal/2022-10-16.md",
     "journal/2022-10-15.md",
     "journal/2022-10-14.md",
-    "journal/2022-09-28.md",
-    "journal/2022-09-18.md",
-    "journal/2022-09-12.md",
-    "journal/2022-09-15.md"
+    "journal/2022-09-28.md"
   ]
 }
