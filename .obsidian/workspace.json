@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/Sigil Wen.md",
+                "file": "journal/2023-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Sigil Wen.md",
+                "file": "journal/2023-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Sigil Wen.md",
+                "file": "journal/2023-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Sigil Wen.md"
+                "file": "journal/2023-01-05.md"
               }
             }
           }
@@ -144,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5119a3aebef51ee",
+  "active": "b31ff7819f00b65a",
   "lastOpenFiles": [
-    "people/River Fields.md",
     "journal/2023-01-04.md",
+    "people/Sigil Wen.md",
+    "people/River Fields.md",
     "journal/2023-01-03.md",
     "people/Ratan Kaliani.md",
     "people/Raymond Chong.md",
     "notes/2023 review.md",
     "photos/Pasted image 20221229133524.png",
     "journal/2022-12-22.md",
-    "journal/2022-10-16.md",
-    "journal/2022-10-15.md"
+    "journal/2022-10-16.md"
   ]
 }
